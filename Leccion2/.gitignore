@@ -1,0 +1,5 @@
+# Ignorar archivos generados por PyCharm
+.idea/
+
+# Ignorar archivos en el entorno virtual
+.venv/
